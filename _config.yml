@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Leo's Homepage"
 title_separator          : "-"
-name                     : &name "Leo Yu Zhang"
+name                     : &name "LYZ" #this is the author of the site, shown in the footer part. 
 description              : &description "Snr. Lecturer at GU"
 url                      : "https://leozhangcs/leozhangcs_test.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                 : # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Leo Yu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Lecturer, Griffith University"
+  bio              : "Senior Lecturer<br>School of ICT<br>Griffith University"
   location         : #"Gold Coast"
   employer         : #"Griffith University"
   uri              : # URL

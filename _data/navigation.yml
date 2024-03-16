@@ -15,11 +15,11 @@ main:
   - title: "Services"
     url: /services/  
 
-  - title: "Talks"
-    url: /talks/   
+  #- title: "Talks"
+  #  url: /talks/   
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   #- title: "Portfolio"
   #  url: /portfolio/
