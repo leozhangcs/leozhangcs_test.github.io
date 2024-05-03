@@ -5,11 +5,50 @@ permalink: /research/
 author_profile: true
 ---
 
-**Trustworthy AI** 
-------
+I used to work on Chaotic Cryptography (inactive since 2015) and Compressed Sampling Secrecy (inactive since 2016), and my current research interests are __Trustworthy AI__ and __Applied Cryptography__.
+<br><br><br>
 
-**Applied cryptography** 
-------
+**Trustworthy AI**: 
+Given the critical importance of trust and transparency in AI technologies, addressing security and privacy challenges associated with AI deployment becomes paramount. My research in this area focuses on the following several key aspects: 
+- Understanding and improving adversarial robustness <span style="color:blue"> [Oakland'24a], [Oakland'24c], [ICCV'23], [Asia CCS'23a], [CVPR'22] </span>  
+- Deisning and defeating poisoning attacks <span style="color:blue"> [IJCAI'24a], [IJCAI'24b], [AAAI'24a], [Oakland'24b], [Acm MM'23], [IJCAI'23], [IJCAI'22] </span>  
+- Preventing privacy and IP leakage <span style="color:blue"> [AAAI'24b], [AAAI'24c], [Asia CCS'23b] </span>  
+- Improving overall performance in the presence of adversaries <span style="color:blue"> [TIFS'23] </span>  
+
+<span style="color:blue">[Oakland'24a]</span> Y. Zhang, S. Hu, L. Y. Zhang, J. Shi, M. Li, X. Liu, W. Wan, H. Jin, "Why Does Little Robustness Help? Understanding Adversarial Transferability From Surrogate Training," in Oakland, 2024. 
+
+[Oakland'24b] X. Mo, Y. Zhang, L. Y. Zhang, W. Luo, N. Sun, S. Hu, S. Gao, Y. Xiang, "Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics," in Oakland, 2024.
+
+[Oakland'24c] Z. Zhou, M. Li, W. Liu, S. Hu, Y. Zhang, W. Wan, L. Xue, L. Y. Zhang, D. Yao, H. Jin, "Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples," in Oakland, 2024.
+
+[IJCAI'24a] H. Zhang, S. Hu, Y. Wang, L. Y. Zhang, Z. Zhou, X. Wang, Y. Zhang, C. Chen,  "Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness," in IJCAI, 2024.
+
+[IJCAI'24b] W. Wan, Y. Ning, S. Hu, L. Xue, M. Li, L. Y. Zhang, Y. Wang, "DarkFed: A Data-Free Backdoor Attack in Federated Learning," in IJCAI, 2024.
+
+[AAA'24a] Q. Duan, Z. Hua, Q. Liao, Y. Zhang, L. Y. Zhang, "Conditional Backdoor Attack via JPEG Compression," in AAAI, 2024.
+
+[AAAI'24b] D. Mi, Y. Zhang, L. Y. Zhang, S. Hu, Q. Zhong, H. Yuan, S. Pan, "Towards Model Extraction Attacks in GAN-based Image Translation via Domain Shift Mitigation," in AAAI, 2024. 
+
+[AAAI'24c] L. Xue, S. Hu, R. Zhao, L. Y. Zhang, S. Hu, L. Sun, D. Yao, "Revisiting Gradient Pruning: A Dual Realization for Defending Against Gradient Attacks," in AAAI, 2024.
+
+[Acm MM'23] W. Wan, S. Hu, M. Li, J. Lu, L. Zhang, L. Y. Zhang, H. Jin, "A Four-Pronged Defense Against Byzantine Attacks in Federated Learning," in Acm MM, 2023. 
+
+[ICCV'23] Z. Zhou, S. Hu, R. Zhao, Q. Wang, L. Y. Zhang, J. Hou, H. Jin, "Downstream-agnostic Adversarial Examples," in ICCV, 2023.
+
+[IJCAI'23] H. Zhang, Z. Yao, L. Y. Zhang, S. Hu, C. Chen, A. W.-C. Liew, Z. Li, "Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning Attacks on Federated Learning," in IJCAI, 2023. 
+
+[Asia CCS'23a] X. Zhang, Z. Zhang, Q. Zhong, X. Zheng,  Y. Zhang,  S. Hu, L. Y. Zhang, "Masked Language Model Based Textual Adversarial Example Detection," in AsiaCCS, 2023.
+
+[Asia CCS'23b] M. Ma, Y. Zhang, P. C. M. Arachchige, L. Y. Zhang, M. B. Chhetri, G. Bai, "LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks," in AsiaCCS, 2023.
+
+[TIFS'23] Z. Gong, L. Shen, Y. Zhang, L. Y. Zhang, J. Wang, G. Bai, Y. Xiang, "AGRAMPLIFIER: Defending Federated Learning Against Poisoning Attacks Through Local Update Amplification," IEEE Transactions on Information Forensics and Security, 2023.
+
+[CVPR'22] S. Hu, X. Liu, Y. Zhang, M. Li, L. Y. Zhang, H. Jin, L. Wu, "Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer," in IEEE/CVF CVPR, 2022.
+
+[IJCAI'22] W. Wan, S. Hu, J. Lu, L. Y. Zhang, H. Jin, Y. He, "Shielding Federated Learning: Robust Aggregation with Adaptive Client Selection," in IJCAI, 2022.
+
+**Applied Cryptography:** 
+
 
 
 
@@ -18,7 +57,7 @@ author_profile: true
 
 {::options parse_block_html="true" /}
 <details>
-<summary markdown="span">Below shows the **complete** list of my publications</summary>
+<summary markdown="span">Below shows the **complete** list of my publications. It is also available on my [Google Scholar profile](https://scholar.google.com/citations?user=JK21OM0AAAAJ).</summary>
 
 ### Books & Chapters:
 
